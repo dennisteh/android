@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyKTV</string>
+    <string name="title_outlet">Outlet</string>
+    <string name="title_video">Top Music Video</string>
+    <string name="title_promotion">Promotion</string>
+    <string name="title_reservation">Reservation</string>
+    <string name="title_history">History</string>
+    <string name="title_profile">My Profile</string>
+    <string name="title_aboutus">About Us</string>
+    <string name="title_login">Login</string>
+    <string name="title_signup">Sign Up</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="LoginGet">Login - Get</string>
+    <string name="LoginPost">Login - Post</string>
+    <string name="App">Login Application</string>
+    <string name="LoginStatus">Login Status</string>
+    <string name="LoginRole">Login Role</string>
+    <string name="Status">Not login</string>
+    <string name="Role">Not assigned</string>
+    <string name="method">Login Method</string>
+    <string name="Choose">Choose Method</string>
+
+</resources>
